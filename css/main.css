@@ -8,11 +8,11 @@
 /* =================================== */
 ::-moz-selection {
   /* Code for Firefox */
-  background-color: #7c32ff;
+  background-color: #4bd86a;
   color: #fff; }
 
 ::selection {
-  background-color: #7c32ff;
+  background-color: #4bd86a;
   color: #fff; }
 
 ::-webkit-input-placeholder {
