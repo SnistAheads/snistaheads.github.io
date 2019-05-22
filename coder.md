@@ -1,7 +1,7 @@
 ---
 title: Coding Contest
 subtitle: participate in these coding contests
-layout: product-category
+layout: coder-category
 show_sidebar: false
 sort: price
 ---
