@@ -1,6 +1,8 @@
 - name: Branches
   link: #
   dropdown:
+    - name: Coders
+      link: /coder/
     - name: Page With Sidebar
       link: /page-1/
     - name: Page No Sidebar
