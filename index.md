@@ -1,6 +1,6 @@
 ---
-title: saThURING
-subtitle: my website
+title: SNIST Aheads
+subtitle: Student Organizational website which brings everything under one tree.
 layout: page
 ---
 
