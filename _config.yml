@@ -1,11 +1,11 @@
 # Site Settings
-title: saThURING!
-tagline: personal website
+title: SNISTAheads!
+tagline: organization website
 email: your-email@domain.com
 description: >
-  my website
+  org website
 baseurl: ""
-url: "https://sathuring.github.io/"
+url: "https://snistaheads.github.io/"
 permalink: pretty
 
 paginate: 5
