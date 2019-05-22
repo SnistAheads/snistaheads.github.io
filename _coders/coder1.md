@@ -3,7 +3,7 @@ title: Coding Contest-1
 subtitle: Code 1 tagline here
 description: This is a product description
 product_code: ABC124
-layout: product
+layout: coder
 image: https://via.placeholder.com/640x480
 price: £1.99 + VAT
 features:
