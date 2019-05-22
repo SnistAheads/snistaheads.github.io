@@ -1,6 +1,6 @@
 ---
-title: Product 1 Name
-subtitle: Product 1 tagline here
+title: Coding Contest-1
+subtitle: Code 1 tagline here
 description: This is a product description
 product_code: ABC124
 layout: product
