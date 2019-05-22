@@ -2,7 +2,7 @@
   link: #
   dropdown:
     - name: Coders
-      link: /coder/
+      link: /coders/
     - name: Page With Sidebar
       link: /page-1/
     - name: Page No Sidebar
