@@ -1,6 +1,6 @@
 ---
 title: SNIST Aheads
-subtitle: Student Organizational website which brings everything under one tree.
+subtitle: Student Centric site which brings everything under one tree.
 layout: page
 ---
 
