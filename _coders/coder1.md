@@ -4,6 +4,7 @@ subtitle:Start Pacticing !
 product_code: ABC123
 layout: coder
 image: https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
+price: £0.99 + VAT
 features:
     - label: Great addition to any home
       icon: fa-location-arrow
