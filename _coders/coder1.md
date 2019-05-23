@@ -1,17 +1,23 @@
 ---
-title: Coding Contest-1
-subtitle: Start practicng now !
+title:Coding Contest-1
+subtitle:Start practicng now !
     Topics for Contest-1
 #Basic Number Theory #Implementation #strings,#arrays #brute force
 
 link [here](https://www.hackerrank.com/snistcontest1)
-
-
+product_code: coder1
 layout: coder
 image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmqPOUclhiweznknT9clPFDuYu4kxk7_PsXlrTPbODxbXyYHna
-
+price: 
+features:
+    - label: 
+      icon: fa-location-arrow
+    - label: 
+      icon: fa-grin-stars
+    - label: 
+      icon: fa-fighter-jet
+rating: 5
 ---
-
 **SOLUTIONS FOR CONTEST-1**
 
 **1.Decorate Tree**
