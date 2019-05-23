@@ -1,4 +1,6 @@
 Contest 1
+
+
 Its a series of Coding Contests weekly on specific topics open for everyone.
 
 Topics for Contest-1
