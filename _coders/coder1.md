@@ -46,7 +46,7 @@ There are many possible approaches in this problem, I will describe one of the e
 Let's print the initial string by the following algorithm: firstly, init the variable i=1. Then, while the encrypted string isn't empty, print the first character of this string, remove i first characters from it and increase i by one.
 
 c++ code:
-cpp
+```cpp
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -61,14 +61,14 @@ int main() {
     while (index < n)
         cout << s[index], index += gap, gap++;
 }
-
+```
 
 **3.Pieces of land**
 https://www.hackerrank.com/challenges/restaurant/editorial
-
+Will be Provided soon!
 
 **4.Direction of Wind**
-cpp
+```cpp
 
 #include<bits/stdc++.h>
 #define ll long long
@@ -128,13 +128,13 @@ int main()
         }
     }
 }
-
+```
 
 **5.Prime Sequence**
 
 hint: learn sieve of erasthones for finding primes...
 code:
-cpp
+```cpp
 
 #include<bits/stdc++.h>
 #define ll long long
@@ -169,12 +169,12 @@ int main()
         cout<<dp[n]<<endl;
     }
 }
-
+```
 **6.Divisors of Two Integers** 
 Let's take a look on the maximum element of the given array. Suddenly, this number is x (or y, the order doesn't matter). Okay, what would we do if we know x and merged list of divisors of x and y? Let's remove all divisors of x and see what we got. The maximum element in the remaining array is y. So, the problem is solved.
 
 code:
-cpp
+```cpp
 
 #include <bits/stdc++.h>
 
@@ -202,3 +202,4 @@ int main() {
 	cout << x << " " << *prev(a.end()) << endl;
 	return 0;
 }
+```
