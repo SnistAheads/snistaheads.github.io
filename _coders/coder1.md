@@ -1,22 +1,18 @@
 ---
-title:Coding Contest-1
-subtitle:Start practicng now !
-    Topics for Contest-1
-#Basic Number Theory #Implementation #strings,#arrays #brute force
-
-link [here](https://www.hackerrank.com/snistcontest1)
-product_code: coder1
+title: Product 2 Name
+subtitle: Product 2 tagline here
+product_code: ABC123
 layout: coder
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmqPOUclhiweznknT9clPFDuYu4kxk7_PsXlrTPbODxbXyYHna
-price: 
+image: https://via.placeholder.com/640x480
+price: £0.99 + VAT
 features:
-    - label: 
+    - label: Great addition to any home
       icon: fa-location-arrow
-    - label: 
+    - label: Comes in a range of styles
       icon: fa-grin-stars
-    - label: 
+    - label: Available in multiple sizes
       icon: fa-fighter-jet
-rating: 5
+rating: 3
 ---
 **SOLUTIONS FOR CONTEST-1**
 
