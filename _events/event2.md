@@ -1,12 +1,13 @@
 ---
-title: Product 3 Name
-subtitle: Product 3 tagline here
-product_code: ABC125
-layout: coder
+title: Product 2 Name
+subtitle: Product 2 tagline here
+product_code: ABC123
+layout: event
 image: https://via.placeholder.com/640x480
-price: £2.99 + VAT
+price: £0.99 + VAT
 features:
     - label: Great addition to any home
+      icon: fa-location-arrow
     - label: Comes in a range of styles
       icon: fa-grin-stars
     - label: Available in multiple sizes

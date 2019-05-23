@@ -1,7 +1,7 @@
 ---
 title: Events
 subtitle: Check out our range of events
-layout: product-category
+layout: event-category
 show_sidebar: false
 sort: price
 ---
