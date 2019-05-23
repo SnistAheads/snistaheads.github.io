@@ -4,26 +4,24 @@ subtitle: Student Centric site which brings everything under one tree.
 layout: page
 ---
 
-# Welcome to SNIST aheads !
+# A Student organisation for all sources 
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+This website showcases the options for the Students for obtaining the resources they need.
 
-## Ruby Gem
+## What are the sources 
 
-The ruby gem is available on the Ruby Gems website at the following location. [https://rubygems.org/gems/bulma-clean-theme](https://rubygems.org/gems/bulma-clean-theme)
+The sources include Materials,Tutorials,Projects an all the help you need.
 
-## GitHub Pages
+## Coding questions
 
-The theme can be used with GitHub Pages bu setting the `remote_theme` in your Jekyll sites `_config.yml`
-
+We will be providing the practice questions for your practice.
 ```yml
-remote_theme: chrisrhymes/bulma-clean-theme
+CODING QUEST
 ```
 
 ## Instructions
 
-For full instructions, please see the Readme at the GitHub repo:
-[https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md](https://github.com/chrisrhymes/bulma-clean-theme/blob/master/README.md)
+Will be updating soon !
 
 ## Page Layouts
 
@@ -35,3 +33,4 @@ This demo site showcases the available page layout options.
 * Page With Tabs
 * Blog
 * Post
+
