@@ -1,10 +1,9 @@
 ---
-title: Product 2 Name
-subtitle: Product 2 tagline here
+title: Contest 1
+subtitle:Start Pacticing !
 product_code: ABC123
 layout: coder
-image: https://via.placeholder.com/640x480
-price: £0.99 + VAT
+image: https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
 features:
     - label: Great addition to any home
       icon: fa-location-arrow
@@ -15,6 +14,8 @@ features:
 rating: 3
 ---
 Topics for Contest-1
+
+
 #Basic Number Theory #Implementation #strings,#arrays #brute force
 
 link [here](https://www.hackerrank.com/snistcontest1)
