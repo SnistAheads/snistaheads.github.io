@@ -1,10 +1,10 @@
 ---
-title: Product 2 Name
-subtitle: Product 2 tagline here
+title: Coding contest 1
+subtitle: Its a series of Coding Contests weekly on specific topics open for everyone.
 product_code: ABC123
 layout: coder
-image: https://via.placeholder.com/640x480
-price: £0.99 + VAT
+image:https://i.stack.imgur.com/LO0D9.jpg
+price: 00
 features:
     - label: Great addition to any home
       icon: fa-location-arrow
@@ -14,6 +14,11 @@ features:
       icon: fa-fighter-jet
 rating: 3
 ---
+Topics for Contest-1
+#Basic Number Theory #Implementation #strings,#arrays #brute force
+
+link [here](https://www.hackerrank.com/snistcontest1)
+
 **SOLUTIONS FOR CONTEST-1**
 
 **1.Decorate Tree**
