@@ -3,7 +3,7 @@ title: Coding contest 1
 subtitle: Its a series of Coding Contests weekly on specific topics open for everyone.
 product_code: ABC123
 layout: coder
-image:https://i.stack.imgur.com/LO0D9.jpg
+image: https://i.stack.imgur.com/LO0D9.jpg
 price: 00
 features:
     - label: Great addition to any home
