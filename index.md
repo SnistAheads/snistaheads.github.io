@@ -4,7 +4,7 @@ subtitle: Student Centric site which brings everything under one tree.
 layout: page
 ---
 
-# Bulma Clean Theme demo website
+# Welcome to SNIST aheads !
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
