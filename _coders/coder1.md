@@ -1,6 +1,6 @@
 ---
 title: Contest 1
-subtitle:Start Pacticing !
+subtitle: Start Practicing !
 product_code: ABC123
 layout: coder
 image: https://images.unsplash.com/photo-1461749280684-dccba630e2f6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80
