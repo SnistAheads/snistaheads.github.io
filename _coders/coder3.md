@@ -23,4 +23,4 @@ link [here](https://www.hackerrank.com/snistcontest1)
 
 **SOLUTIONS FOR CONTEST-3**
 
-**UPDATING...!!**
+**UPDATING..!!**
