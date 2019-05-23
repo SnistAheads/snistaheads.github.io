@@ -29,7 +29,7 @@ Consider some solution Y, B, R, where Y+1=B and B+1=R. Let's add two yellow orna
 code: 
 (c++ , see the logic if u dont know c++ syntax)
 
-cpp
+```cpp
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -38,6 +38,7 @@ int main(){
     cin >> a >> b >> c;
     cout << min(a + 2, min(b + 1, c)) * 3 - 3;
 }
+```
 
 **2.Repeating characters**
 There are many possible approaches in this problem, I will describe one of the easiest.
