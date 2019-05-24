@@ -23,14 +23,17 @@ CODING QUEST
 
 Will be updating soon !
 
-## Page Layouts
-
-This demo site showcases the available page layout options.
-
-* Page With Sidebar
-* Page Without Sidebar
-* Page With Menubar
-* Page With Tabs
-* Blog
-* Post
+## Todo
+- [ X ] Code Events Layout
+- [ ] Coding Resources
+- [ X ] Events Layout
+- [ X ] Blog Layout
+- [ ] Resources Page
+- [ ] Placements Resources
+- [ ] Previous Question Papers
+- [ ] Gate/Gre Resources
+- [ ] College Fests
+- [ ] Contests
+- [ ] Discussions Forum
+- [ ] Academic Materials
 
