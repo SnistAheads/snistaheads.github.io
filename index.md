@@ -24,10 +24,10 @@ CODING QUEST
 Will be updating soon !
 
 ## Todo
-- [ X ] Code Events Layout
+- [X] Code Events Layout
 - [ ] Coding Resources
-- [ X ] Events Layout
-- [ X ] Blog Layout
+- [X] Events Layout
+- [X] Blog Layout
 - [ ] Resources Page
 - [ ] Placements Resources
 - [ ] Previous Question Papers
