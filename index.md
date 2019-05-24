@@ -35,5 +35,9 @@ Will be updating soon !
 - [ ] College Fests
 - [ ] Contests
 - [ ] Discussions Forum
-- [ ] Academic Materials
+- [ ] Academic Materials and Renowned material from top universities
+- [ ] All Club Activities/Sessions
+- [ ] a web scrapper for crawling
+- [ ] user database
+- [ ] Personalized Suggestions
 
