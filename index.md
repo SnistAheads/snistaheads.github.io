@@ -32,6 +32,7 @@ Will be updating soon !
 - [ ] Placements Resources
 - [ ] Previous Question Papers
 - [ ] Gate/Gre Resources
+- [ ] Internships
 - [ ] College Fests
 - [ ] Contests
 - [ ] Discussions Forum
