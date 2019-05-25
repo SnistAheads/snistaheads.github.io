@@ -1,3 +1,28 @@
+- name: Coder arena
+  link: #
+  dropdown:
+    -name: Coding challenges
+     link: /coders/
+    -name: Coding Sources
+     link: /codingsources/
+- name: Study Corner
+  link: #
+  dropdown:
+    -name: Gate and Gre
+     link: /cgategre/
+    -name: previous papers
+     link: /previouspapers/
+    -name: Materials
+     link: /mateials/
+- name: Internships
+  link: /internships/
+- name:SNIST Corner
+  link: #
+  drodown:
+    -name: Fests
+     link: /cfests/
+    -name: Club activities
+     link: /clubactivities/
 - name: Branches
   link: #
   dropdown:
