@@ -1,5 +1,5 @@
 ---
-title: Page with menubar
+title: Previous Papers
 subtitle: Demo page with a menubar
 layout: page
 show_sidebar: false
