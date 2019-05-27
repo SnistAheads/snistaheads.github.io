@@ -25,9 +25,7 @@
       link: /clubactivities/
 - name: Branches
   link: #
-  dropdown:
-    - name: Coders
-      link: /coders/
+  dropdown:    
     - name: Page With Sidebar
       link: /page-1/
     - name: Page No Sidebar
