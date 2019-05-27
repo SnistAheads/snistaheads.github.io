@@ -19,10 +19,10 @@
 - name: SNIST Corner
   link: #
   drodown:
-    - name: Fests
-      link: /cfests/
-    - name: Club activities
-      link: /clubactivities/
+   - name: Fests
+     link: /cfests/
+   - name: Club activities
+     link: /clubactivities/
 - name: Branches
   link: #
   dropdown:    
